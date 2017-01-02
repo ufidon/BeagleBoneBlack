@@ -14,4 +14,15 @@
 * http://processors.wiki.ti.com/index.php/Linux_Core_U-Boot_User%27s_Guide#Working_with_USB_Device_Firmware_Upgrade
 * http://processors.wiki.ti.com/index.php/AM335x_U-Boot_User's_Guide
 * https://training.ti.com/linux-board-porting-training-series
+* https://eewiki.net/display/linuxonarm/BeagleBone+Black
+
+### 玩转BeagleBoneBlack
+
+1. http://processors.wiki.ti.com/index.php/Processor_SDK_Linux_Setup_Script
+2. http://elinux.org/Beagleboard:Updating_The_Software
+
+### 运行ubuntu
+
+* http://elinux.org/BeagleBoardUbuntu#BeagleBone_White.2FBlack.2FGreen
+
 
